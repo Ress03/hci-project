@@ -11,7 +11,7 @@
     <img src="./banner.png">
 </h1>
 
-<h3 align="center">You can access the project <a href="https://repsonsive-website-playstation.netlify.app/" target="_blank">Clicking here</a></h3>
+<h3 align="center">You can access the project <a href="https://ress03.github.io/hci-project/" target="_blank">Clicking here</a></h3>
 
 <p align="center">Appliction developed to learning effects. The UI in figma can be seen in <a href="https://www.figma.com/file/0Kpr4fo1QTyyhruZDEbCBz/Repsonsive-Website-PlayStation?node-id=1%3A1886" target="_blank">Figma</a> </p>
 
