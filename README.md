@@ -36,7 +36,7 @@
 
 ```bash
 # Clone the repository
-$ git clone git@github.com:kennedybarros/repsonsive-website-playstation.git
+$ git clone git@github.com:Ress03/hci-project.git
 
 # Enter directory
 $ cd repsonsive-website-playstation
@@ -56,5 +56,5 @@ This project is under license. see the file [LICENSE](LICENSE.md) for more detai
 
 <br/>
 
-<p align="center"> Developed by <a href="https://www.linkedin.com/in/kennedybarros/">Kennedy Barros</a> ✌🏼</p>
+<p align="center"> Developed by <a href="https://www.linkedin.com/in/reysan-barillo/">Reysan Barillo</a> ✌🏼</p>
 "# hci-project" 
